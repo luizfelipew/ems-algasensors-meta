@@ -69,3 +69,5 @@ microservices/.DS_Store
 /microservices/device-management/.gradle/
 /microservices/device-management/gradle/
 /microservices/temperature-monitoring/gradle/
+/microservices/device-management/gradle/
+/microservices/device-management/gradle/

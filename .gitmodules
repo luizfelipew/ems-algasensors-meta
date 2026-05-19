@@ -7,3 +7,9 @@
 [submodule "microservices/device-management"]
 	path = microservices/device-management
 	url = https://github.com/luizfelipew/ems-algasensors-device-management.git
+[submodule "microservices/algashop-ordering"]
+	path = microservices/algashop-ordering
+	url = https://github.com/luizfelipew/ems-algashop-ordering.git
+[submodule "microservices/algashop-docs"]
+	path = microservices/algashop-docs
+	url = https://github.com/luizfelipew/ems-algashop-docs.git
